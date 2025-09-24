@@ -1232,26 +1232,27 @@ Please take a quick look at the [contribution guidelines](https://github.com/Env
 
 # GitHub Stats
 
-| Badge                                                                                                     | URL                                                                                               |
-| --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| <img src="https://img.shields.io/github/license/Envoy-VC/Python-Scripts.svg"/>                            | `https://img.shields.io/github/license/{username}/{repo-name}.svg`                                |
-| <img src="https://img.shields.io/github/release/Envoy-VC/Python-Scripts.svg"/>                            | `https://img.shields.io/github/release/{username}/{repo-name}.svg`                                |
-| <img src="https://img.shields.io/github/commits-since/Naereen/StrapDown.js/v1.0.0.svg"/>                  | `https://img.shields.io/github/commits-since/{username}/{repo-name}/{version}.svg`                |
-| <img src="https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg"/>                       | `https://img.shields.io/github/downloads/{username}/{repo-name}/total.svg`                        |
-| <img src="https://img.shields.io/github/forks/Envoy-VC/Envoy-VC.svg"/>                                    | `https://img.shields.io/github/forks/{username}/{repo-name}.svg`                                  |
-| <img src="https://img.shields.io/github/stars/Envoy-VC/Envoy-VC.svg"/>                                    | `https://img.shields.io/github/stars/{username}/{repo-name}.svg`                                  |
-| <img src="https://img.shields.io/github/watchers/Envoy-VC/Envoy-VC.svg"/>                                 | `https://img.shields.io/github/watchers/{username}/{repo-name}.svg`                               |
+| Badge                                                        | URL                                                          |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <img src="https://img.shields.io/github/license/Envoy-VC/Python-Scripts.svg"/> | `https://img.shields.io/github/license/{username}/{repo-name}.svg` |
+| <img src="https://img.shields.io/github/release/Envoy-VC/Python-Scripts.svg"/> | `https://img.shields.io/github/release/{username}/{repo-name}.svg` |
+| <img src="https://img.shields.io/github/commits-since/Naereen/StrapDown.js/v1.0.0.svg"/> | `https://img.shields.io/github/commits-since/{username}/{repo-name}/{version}.svg` |
+| <img src="https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg"/> | `https://img.shields.io/github/downloads/{username}/{repo-name}/total.svg` |
+| <img src="https://img.shields.io/github/forks/Envoy-VC/Envoy-VC.svg"/> | `https://img.shields.io/github/forks/{username}/{repo-name}.svg` |
+| <img src="https://img.shields.io/github/stars/Envoy-VC/Envoy-VC.svg"/> | `https://img.shields.io/github/stars/{username}/{repo-name}.svg` |
+| <img src="https://img.shields.io/github/watchers/Envoy-VC/Envoy-VC.svg"/> | `https://img.shields.io/github/watchers/{username}/{repo-name}.svg` |
 | <img src="https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000"/> | `https://img.shields.io/github/followers/{username}.svg?style=social&label=Follow&maxAge=2592000` |
-| <img src="https://img.shields.io/github/issues/Envoy-VC/Envoy-VC.svg"/>                                   | `https://img.shields.io/github/issues/{username}/{repo-name}.svg`                                 |
-| <img src="https://img.shields.io/github/issues-closed/Envoy-VC/Envoy-VC.svg"/>                            | `https://img.shields.io/github/issues-closed/{username}/{repo-name}.svg`                          |
-| <img src="https://img.shields.io/github/issues-pr/Envoy-VC/Envoy-VC.svg"/>                                | `https://img.shields.io/github/issues-pr/{username}/{repo-name}.svg`                              |
-| <img src="https://img.shields.io/github/issues-pr-closed/Envoy-VC/Envoy-VC.svg"/>                         | `https://img.shields.io/github/issues-pr-closed/{username}/{repo-name}.svg`                       |
-| <img src="https://badge-size.herokuapp.com/Envoy-VC/Envoy-VC/main/README.md"/>                            | `https://badge-size.herokuapp.com/{username}/{repo}/{branch}/{filename}`                          |
-| <img src="https://github-readme-stats.vercel.app/api?username=Envoy-VC&theme=blue-green"/>                | `https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green`                 |
-| <img src="https://github-readme-stats.vercel.app/api?username=Envoy-VC&theme=blue-green"/>                | `https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green`                 |
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Envoy-VC&theme=blue-green"/>     | `https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green`      |
-| <img src="https://starchart.cc/caarlos0/starcharts.svg"/>                                                 | `https://starchart.cc/{username}/{repo}.svg`                                                      |
-| <img src="https://img.shields.io/github/last-commit/Envoy-VC/Envoy-VC.svg"/>                              | `https://img.shields.io/github/last-commit/{username}/{repo-name}.svg`                            |
+| <img src="https://img.shields.io/github/issues/Envoy-VC/Envoy-VC.svg"/> | `https://img.shields.io/github/issues/{username}/{repo-name}.svg` |
+| <img src="https://img.shields.io/github/issues-closed/Envoy-VC/Envoy-VC.svg"/> | `https://img.shields.io/github/issues-closed/{username}/{repo-name}.svg` |
+| <img src="https://img.shields.io/github/issues-pr/Envoy-VC/Envoy-VC.svg"/> | `https://img.shields.io/github/issues-pr/{username}/{repo-name}.svg` |
+| <img src="https://img.shields.io/github/issues-pr-closed/Envoy-VC/Envoy-VC.svg"/> | `https://img.shields.io/github/issues-pr-closed/{username}/{repo-name}.svg` |
+| <img src="https://badge-size.herokuapp.com/Envoy-VC/Envoy-VC/main/README.md"/> | `https://badge-size.herokuapp.com/{username}/{repo}/{branch}/{filename}` |
+| <img src="https://github-readme-stats.vercel.app/api?username=Envoy-VC&theme=blue-green"/> | `https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green` |
+| <img src="https://github-readme-stats.vercel.app/api?username=Envoy-VC&theme=blue-green"/> | `https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green` |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Envoy-VC&theme=blue-green"/> | `https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green` |
+| <img src="https://starchart.cc/caarlos0/starcharts.svg"/>    | `https://starchart.cc/{username}/{repo}.svg`                 |
+| [![Star History Chart](https://api.star-history.com/svg?repos=reaishijie/moments&type=Date)](https://www.star-history.com/#reaishijie/moments&Date) | `[![Star History Chart](https://api.star-history.com/svg?repos={username}/{repo}&type=Date)](https://www.star-history.com/#{username}/{repo}&Date)` |
+| <img src="https://img.shields.io/github/last-commit/Envoy-VC/Envoy-VC.svg"/> | `https://img.shields.io/github/last-commit/{username}/{repo-name}.svg` |
 
 <br>
 
