@@ -1026,6 +1026,11 @@ Please take a quick look at the [contribution guidelines](https://github.com/Env
 | <img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white" />         | `https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white`         |
 | <img src="https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white" />                 | `https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white`                 |
 | <img src="https://img.shields.io/badge/Arc-3139fb?style=for-the-badge&logo=Arc&logoColor=white" />                 | `https://img.shields.io/badge/Arc-3139fb?style=for-the-badge&logo=Arc&logoColor=white`                 |
+| <img src="https://browsercalendar.com/api/badge?chrome=<=150.0.0" alt="Chrome compatibility badge" /> | `https://browsercalendar.com/api/badge?chrome=<=150.0.0` |
+| <img src="https://browsercalendar.com/api/badge?firefox=<=135.0.0" alt="Firefox compatibility badge" /> | `https://browsercalendar.com/api/badge?firefox=<=135.0.0` |
+| <img src="https://browsercalendar.com/api/badge?edge=<=135.0.0" alt="Edge compatibility badge" /> | `https://browsercalendar.com/api/badge?edge=<=135.0.0` |
+| <img src="https://browsercalendar.com/api/badge?safari=<=18.0.0" alt="Safari compatibility badge" /> | `https://browsercalendar.com/api/badge?safari=<=18.0.0` |
+| <img src="https://browsercalendar.com/api/badge?chrome=<=150.0.0&firefox=<=135.0.0&edge=<=135.0.0" alt="Multi-browser compatibility badge" /> | `https://browsercalendar.com/api/badge?chrome=<=150.0.0&firefox=<=135.0.0&edge=<=135.0.0` |
 
 <br>
 
