@@ -1026,27 +1026,11 @@ Please take a quick look at the [contribution guidelines](https://github.com/Env
 | <img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white" />         | `https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white`         |
 | <img src="https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white" />                 | `https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white`                 |
 | <img src="https://img.shields.io/badge/Arc-3139fb?style=for-the-badge&logo=Arc&logoColor=white" />                 | `https://img.shields.io/badge/Arc-3139fb?style=for-the-badge&logo=Arc&logoColor=white`                 |
-
-### Dynamic Browser Compatibility Badges
-
-Dynamic SVG badges that verify browser version compatibility in real-time. Perfect for documenting minimum/maximum browser support in your README.
-
-| Badge                                                                                                                      | URL                                                                                                            |
-| -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| <img src="https://browsercalendar.com/api/badge?chrome=<=155.0.0" alt="Chrome compatibility badge: up to version 155.0.0" /> | `https://browsercalendar.com/api/badge?chrome=<=155.0.0`                                                       |
-| <img src="https://browsercalendar.com/api/badge?firefox=<=133.0.0" alt="Firefox compatibility badge: up to version 133.0.0" /> | `https://browsercalendar.com/api/badge?firefox=<=133.0.0`                                                      |
-| <img src="https://browsercalendar.com/api/badge?edge=<=135.0.0" alt="Edge compatibility badge: up to version 135.0.0" /> | `https://browsercalendar.com/api/badge?edge=<=135.0.0`                                                         |
-| <img src="https://browsercalendar.com/api/badge?safari=<=18.0.0" alt="Safari compatibility badge: up to version 18.0.0" /> | `https://browsercalendar.com/api/badge?safari=<=18.0.0`                                                        |
-| <img src="https://browsercalendar.com/api/badge?chrome=<=155.0.0&firefox=<=133.0.0&edge=<=135.0.0" alt="Multi-browser compatibility badge: Chrome up to 155, Firefox up to 133, Edge up to 135" /> | `https://browsercalendar.com/api/badge?chrome=<=155.0.0&firefox=<=133.0.0&edge=<=135.0.0`                       |
-
-**Supported operators:** `<=`, `<`, `>=`, `>`, `^`, `~`, `=`
-
-**Examples:**
-- Maximum version check: `?chrome=<=155.0.0` (tested up to Chrome 155)
-- Minimum version requirement: `?firefox=>=130.0.0` (requires Firefox 130+)
-- Multi-browser support: `?chrome=<=155.0.0&firefox=<=133.0.0&edge=<=135.0.0`
-
-Learn more at [Browser Calendar](https://browsercalendar.com/badge)
+| <img src="https://browsercalendar.com/api/badge?chrome=<=150.0.0" alt="Chrome compatibility badge" /> | `https://browsercalendar.com/api/badge?chrome=<=150.0.0` |
+| <img src="https://browsercalendar.com/api/badge?firefox=<=135.0.0" alt="Firefox compatibility badge" /> | `https://browsercalendar.com/api/badge?firefox=<=135.0.0` |
+| <img src="https://browsercalendar.com/api/badge?edge=<=135.0.0" alt="Edge compatibility badge" /> | `https://browsercalendar.com/api/badge?edge=<=135.0.0` |
+| <img src="https://browsercalendar.com/api/badge?safari=<=18.0.0" alt="Safari compatibility badge" /> | `https://browsercalendar.com/api/badge?safari=<=18.0.0` |
+| <img src="https://browsercalendar.com/api/badge?chrome=<=150.0.0&firefox=<=135.0.0&edge=<=135.0.0" alt="Multi-browser compatibility badge" /> | `https://browsercalendar.com/api/badge?chrome=<=150.0.0&firefox=<=135.0.0&edge=<=135.0.0` |
 
 <br>
 
