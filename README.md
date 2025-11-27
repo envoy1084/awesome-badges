@@ -1033,11 +1033,11 @@ Dynamic SVG badges that verify browser version compatibility in real-time. Perfe
 
 | Badge                                                                                                                      | URL                                                                                                            |
 | -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| <img src="https://browsercalendar.com/api/badge?chrome=<=155.0.0" />                                                       | `https://browsercalendar.com/api/badge?chrome=<=155.0.0`                                                       |
-| <img src="https://browsercalendar.com/api/badge?firefox=<=133.0.0" />                                                      | `https://browsercalendar.com/api/badge?firefox=<=133.0.0`                                                      |
-| <img src="https://browsercalendar.com/api/badge?edge=<=135.0.0" />                                                         | `https://browsercalendar.com/api/badge?edge=<=135.0.0`                                                         |
-| <img src="https://browsercalendar.com/api/badge?safari=<=18.0.0" />                                                        | `https://browsercalendar.com/api/badge?safari=<=18.0.0`                                                        |
-| <img src="https://browsercalendar.com/api/badge?chrome=<=155.0.0&firefox=<=133.0.0&edge=<=135.0.0" />                       | `https://browsercalendar.com/api/badge?chrome=<=155.0.0&firefox=<=133.0.0&edge=<=135.0.0`                       |
+| <img src="https://browsercalendar.com/api/badge?chrome=<=155.0.0" alt="Chrome compatibility badge: up to version 155.0.0" /> | `https://browsercalendar.com/api/badge?chrome=<=155.0.0`                                                       |
+| <img src="https://browsercalendar.com/api/badge?firefox=<=133.0.0" alt="Firefox compatibility badge: up to version 133.0.0" /> | `https://browsercalendar.com/api/badge?firefox=<=133.0.0`                                                      |
+| <img src="https://browsercalendar.com/api/badge?edge=<=135.0.0" alt="Edge compatibility badge: up to version 135.0.0" /> | `https://browsercalendar.com/api/badge?edge=<=135.0.0`                                                         |
+| <img src="https://browsercalendar.com/api/badge?safari=<=18.0.0" alt="Safari compatibility badge: up to version 18.0.0" /> | `https://browsercalendar.com/api/badge?safari=<=18.0.0`                                                        |
+| <img src="https://browsercalendar.com/api/badge?chrome=<=155.0.0&firefox=<=133.0.0&edge=<=135.0.0" alt="Multi-browser compatibility badge: Chrome up to 155, Firefox up to 133, Edge up to 135" /> | `https://browsercalendar.com/api/badge?chrome=<=155.0.0&firefox=<=133.0.0&edge=<=135.0.0`                       |
 
 **Supported operators:** `<=`, `<`, `>=`, `>`, `^`, `~`, `=`
 
