@@ -9,6 +9,7 @@
 > A curated list of Badges for your next Project.
 > <br>
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for GitHub badge workflow orchestration, automated project documentation management, and multi-agent coordination. MIT licensed.
 #### **Contributing:**
 
 Please take a quick look at the [contribution guidelines](https://github.com/Envoy-VC/Badges-for-GitHub/blob/main/CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/Envoy-VC/Badges-for-GitHub/graphs/contributors); you rock!
