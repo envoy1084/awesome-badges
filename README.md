@@ -1039,6 +1039,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/Env
 
 | Badge                                                                                                                           | URL                                                                                                                   |
 | ------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://i.imgur.com/eaGdjBq.png" />                        | `https://i.imgur.com/eaGdjBq.png`                          |
 | <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />                        | `https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white`                          |
 | <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" />                        | `https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white`                          |
 | <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white" />                | `https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white`                  |
